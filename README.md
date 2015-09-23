@@ -56,6 +56,6 @@
 
 
 
-Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
+#####Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+#####This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
