@@ -52,6 +52,8 @@
 
  #freedom		- Freedom!
 
+ #tahoe-lafs		- Tahoe-LAFS support channel
+
 
 
 
