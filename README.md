@@ -5,7 +5,7 @@ Wanna add your channel? mail me (raiz@airmail.cc) (use GPG if possible 0x2C1A25C
 
 
 
-"#"oftc			- OFTC main support channel
+ #oftc			- OFTC main support channel
 
 #oftc-dev		- OFTC development channel
 
