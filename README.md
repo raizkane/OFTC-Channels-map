@@ -56,6 +56,11 @@
 
  #tahoe-lafs		- Tahoe-LAFS support channel
 
+ #i2p			- I2P support channel
+
+ #i2p-chat		- I2P offtopic
+
+ #i2p-dev		- I2P development channel
 
 
 
