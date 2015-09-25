@@ -24,6 +24,8 @@
 
  #tcp/ip		- Networking support channel
 
+ #wireless		- Everything about wireless networking
+
  #help			- Technical support/help channel
 
  #programming		- Programming and related channel
