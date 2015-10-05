@@ -62,7 +62,7 @@
 
  #i2p-dev		- I2P development channel
 
-
+ #parabola		- Parabola GNU/Linux-libre (unofficial)
 
 
 #####Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
