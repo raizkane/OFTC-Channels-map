@@ -64,7 +64,7 @@
 
  #parabola		- Parabola GNU/Linux-libre (unofficial)
 
- #redditprivacy		- Reddit /r/privacy
+ #openbsd		- OpenBSD support channel
 
 #####Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
 
