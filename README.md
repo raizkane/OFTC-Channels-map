@@ -1,8 +1,8 @@
 # OFTC Channels map
 
- #map @ irc.oftc.net/6697
+###### #map @ irc.oftc.net/6697
 
- Wanna add your channel? mail me (raiz@airmail.cc) (use GPG if possible 0x2C1A25C7)
+###### Wanna add your channel? mail me (raiz@airmail.cc) (use GPG if possible 0x2C1A25C7)
 
  The list:
 
@@ -65,6 +65,8 @@
  #parabola		- Parabola GNU/Linux-libre (unofficial)
 
  #openbsd		- OpenBSD support channel
+
+ #redditprivacy		- /r/privacy
 
 #####Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
 
