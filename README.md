@@ -68,6 +68,26 @@
 
  #redditprivacy		- /r/privacy
 
+ #python		- Python channel
+
+ #cryptocat		- Cryptocat support channel
+
+ #deforaos		- The DeforaOS project
+
+ #openbox		- Openbox support channel
+
+ #openvas		- Open Vulernability Assessment System
+
+ #osm			- OpenStreetMap project
+
+ #openwireless		- EFF's Open Wireless project (https://openwireless.org)
+
+ #otr			- Off The Record crypto discussion channel
+
+ #otr-dev		- OTR development channel
+
+ #openjdk		- OpenJDK discussion
+
 #####Copyright (C) 2015 Raiz Kane <raiz@airmail.cc>
 
 #####This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
